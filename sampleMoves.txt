@@ -1,0 +1,203 @@
+###############
+###########Germany
+{
+	"sessionID": "-LeP3gmCkPL26h66oecN",
+	"actionList1": [
+        {
+            "unitOrigin": "Berlin"
+        },
+        {
+            "unitDest": "Berlin"
+        },
+        {
+            "secondaryUnit": "none"
+        },
+        {
+            "actionType" : 0
+        }
+    ],
+	"actionList2": [
+		{
+			"unitOrigin": "Munich"
+		},
+		{
+			"unitDest":"Tyrolia"
+		},
+		{
+			"secondaryUnit": "none"
+		},
+        {
+            "actionType" : 1
+        }
+	],
+	"actionList3": [
+		{
+			"unitOrigin": "Kiel"
+		},
+		{
+			"unitDest":"Baltic_Sea"
+		},
+		{
+			"secondaryUnit": "none"
+		},
+        {
+            "actionType" : 1
+        }
+	]
+}
+##########################
+##################Italy
+{
+	"sessionID": "-LeP3gmCkPL26h66oecN",
+	"actionList1": [
+        {
+            "unitOrigin": "Rome"
+        },
+        {
+            "unitDest": "Tuscany"
+        },
+        {
+            "secondaryUnit": "none"
+        },
+        {
+            "actionType" : 1
+        }
+    ],
+	"actionList2": [
+		{
+			"unitOrigin": "Naples"
+		},
+		{
+			"unitDest":"Naples"
+		},
+		{
+			"secondaryUnit": "none"
+		},
+        {
+            "actionType" : 0
+        }
+	],
+	"actionList3": [
+		{
+			"unitOrigin": "Venice"
+		},
+		{
+			"unitDest":"Tyrolia"
+		},
+		{
+			"secondaryUnit": "none"
+		},
+        {
+            "actionType" : 1
+        }
+	]
+}
+#################################
+##################France
+{
+	"sessionID": "-LeP3gmCkPL26h66oecN",
+	"actionList1": [
+        {
+            "unitOrigin": "Paris"
+        },
+        {
+            "unitDest": "Picardy"
+        },
+        {
+            "secondaryUnit": "none"
+        },
+        {
+            "actionType" : 1
+        }
+    ],
+	"actionList2": [
+		{
+			"unitOrigin": "Marseilles"
+		},
+		{
+			"unitDest":"Marseilles"
+		},
+		{
+			"secondaryUnit": "none"
+		},
+        {
+            "actionType" : 0
+        }
+	],
+	"actionList3": [
+		{
+			"unitOrigin": "Brest"
+		},
+		{
+			"unitDest":"English_Channel"
+		},
+		{
+			"secondaryUnit": "none"
+		},
+        {
+            "actionType" : 1
+        }
+	]
+}
+#########################################
+##########################Russia
+{
+	"sessionID": "-LeP3gmCkPL26h66oecN",
+	"actionList1": [
+        {
+            "unitOrigin": "Warsaw"
+        },
+        {
+            "unitDest": "Warsaw"
+        },
+        {
+            "secondaryUnit": "none"
+        },
+        {
+            "actionType" : 0
+        }
+    ],
+	"actionList2": [
+		{
+			"unitOrigin": "St_Petersburg"
+		},
+		{
+			"unitDest":"St_Petersburg"
+		},
+		{
+			"secondaryUnit": "none"
+		},
+        {
+            "actionType" : 0
+        }
+	],
+	"actionList3": [
+		{
+			"unitOrigin": "Sevastopol"
+		},
+		{
+			"unitDest":"Black_Sea"
+		},
+		{
+			"secondaryUnit": "none"
+		},
+        {
+            "actionType" : 1
+        }
+	],
+	"actionList4":[
+		{
+			"unitOrigin": "Moscow"
+		},
+		{
+			"unitDest":"Moscow"
+		},
+		{
+			"secondaryUnit": "none"
+		},
+        {
+            "actionType" : 0
+        }
+	]
+
+}
